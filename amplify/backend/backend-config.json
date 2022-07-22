@@ -1,0 +1,9 @@
+{
+  "function": {
+    "typescripttest": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
